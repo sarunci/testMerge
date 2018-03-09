@@ -1,3 +1,5 @@
 This is a test file.
 
 Line added from Branch B1
+
+Line added from Branch B2.
